@@ -2,6 +2,7 @@ import { useLoaderData } from "remix";
 import type { LoaderFunction } from "remix";
 import invariant from "tiny-invariant";
 import { getStory } from "~/stories";
+import { format } from "date-fns";
 
 export const loader: LoaderFunction = async ({ params }) => {
     invariant(params.slug, "expected params.slug");
@@ -13,7 +14,7 @@ export default function StorySlug() {
     return (
         <>
             <h1>{story.title}</h1>
-            <h2>{story.date}</h2>
+            <h2>{format(new Date(story.date), 'do MMM yyyy')}</h2>
             <div className="story" dangerouslySetInnerHTML={{ __html: story.html }} />
         </>
     );
