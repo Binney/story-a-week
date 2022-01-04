@@ -1,6 +1,7 @@
 import { Link, useLoaderData } from "remix";
 import { getStories } from "~/stories";
 import type { Story } from "~/stories";
+import { format } from "date-fns";
 
 export const loader = () => {
     return getStories();
@@ -8,14 +9,13 @@ export const loader = () => {
 
 export default function stories() {
     const stories: Story[] = useLoaderData();
-    console.log(stories);
     return (
         <div>
-            <h1>Library</h1>
+            <h1>All stories</h1>
             <ul>
                 {stories.map(story => (
                     <li key={story.slug}>
-                        <Link to={"/story/" + story.slug}>{story.title}</Link>
+                        <Link to={"/story/" + story.slug}>{story.title}</Link> | {format(new Date(story.date), "do MMM")}
                     </li>
                 ))}
             </ul>

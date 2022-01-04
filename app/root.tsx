@@ -49,10 +49,12 @@ export default function App() {
       </head>
       <body>
         <Header />
-        <div className="container">
-          <Outlet />
-          <ScrollRestoration />
-          <Scripts />
+        <div className="row">
+          <div className="container">
+            <Outlet />
+            <ScrollRestoration />
+            <Scripts />
+          </div>
         </div>
         <Footer />
         {process.env.NODE_ENV === "development" && <LiveReload />}

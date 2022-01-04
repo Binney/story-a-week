@@ -3,9 +3,28 @@
 body {
     margin: 0;
     font-family: 'Lora', serif;
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .container {
     max-width: 700px;
     margin: auto;
+    padding: 2rem;
+}
+
+.header-nav a {
+    margin-right: 2rem;
+}
+
+.footer-row .container {
+    text-align: center;
+    font-size: 80%;
+}
+
+p {
+    line-height: 1.5;
 }

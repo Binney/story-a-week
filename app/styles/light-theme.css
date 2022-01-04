@@ -1,3 +1,16 @@
 body {
-    background-color: beige;
+    background-color: #fff8e0;
+    color: #246b2c;
+}
+
+.header-row, .footer-row {
+    background-color: #e7d9a5;
+}
+
+a {
+    color: #2c50a2;
+}
+
+a:hover, a:active {
+    color: #9db7f3;
 }

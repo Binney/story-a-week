@@ -9,9 +9,12 @@ export const loader: LoaderFunction = async ({ params }) => {
 };
 
 export default function StorySlug() {
-  const story = useLoaderData();
-  console.log(story);
-  return (
-      <div className="story" dangerouslySetInnerHTML={{__html: story.html}} />
-  );
+    const story = useLoaderData();
+    return (
+        <>
+            <h1>{story.title}</h1>
+            <h2>{story.date}</h2>
+            <div className="story" dangerouslySetInnerHTML={{ __html: story.html }} />
+        </>
+    );
 }

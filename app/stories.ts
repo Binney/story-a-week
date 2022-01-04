@@ -3,14 +3,17 @@ import fs from "fs/promises";
 import parseFrontMatter from "front-matter";
 import invariant from "tiny-invariant";
 import { marked } from "marked";
+import { compareAsc, compareDesc } from "date-fns";
 
 export type Story = {
     slug: string;
     title: string;
+    date: Date;
 }
 
 export type StoryMarkdownAttributes = {
     title: string;
+    date: string;
 };
 
 const storiesPath = path.join(__dirname, "..", "stories");
@@ -18,15 +21,12 @@ const storiesPath = path.join(__dirname, "..", "stories");
 function isValidStoryAttributes(
     attributes: any
 ): attributes is StoryMarkdownAttributes {
-    return attributes?.title;
+    return attributes?.title && attributes?.date;
 }
 
 export async function getStories() {
-    console.log("Getting stories");
-    console.log(storiesPath);
     const dir = await fs.readdir(storiesPath);
-    console.log(dir);
-    return Promise.all(
+    const stories = await Promise.all(
         dir.map(async filename => {
             const file = await fs.readFile(
                 path.join(storiesPath, filename)
@@ -40,10 +40,12 @@ export async function getStories() {
             );
             return {
                 slug: filename.replace(/\.md$/, ""),
-                title: attributes.title
+                title: attributes.title,
+                date: new Date(attributes.date),
             };
         })
     );
+    return stories.sort((a, b) => compareDesc(a.date, b.date));
 }
 
 export async function getStory(slug: string) {
@@ -56,7 +58,7 @@ export async function getStory(slug: string) {
             `Story ${filepath} is missing attributes`
         );
         const html = marked(body);
-        return { slug, html, title: attributes.title };
+        return { slug, html, title: attributes.title, date: attributes.date };
     }
     catch (error) {
         throw new Response("Not Found", { status: 404 });

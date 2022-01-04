@@ -1,7 +1,34 @@
-import { Link } from "remix";
+import { Link, useLoaderData } from "remix";
+import { getStories, Story } from "~/stories";
+
+export const loader = () => {
+  return getStories();
+};
 
 export default function Index() {
+  const stories: Story[] = useLoaderData();
   return (
-    <Link to="/stories">Library</Link>
+    <>
+      <h1>Binney's story-a-week</h1>
+      <div className="section">
+        <h2>Latest</h2>
+        <ul>
+          {stories.slice(0, 3).map(story => (
+            <li>
+              <Link to={"/story/" + story.slug}>{story.title}</Link>
+            </li>
+          ))}
+        </ul>
+        <Link to="/stories">See more...</Link>
+      </div>
+      <div className="section">
+        <h2>What is this?</h2>
+        <p>I'm taking my inspiration from <a href="https://www.reddit.com/r/songaweek/">r/songaweek</a>, except instead of songs I'm going to write stories. A story can be long or short, can be serious or weird, can planned or just a stream of consciousness. The point is consistency. You just have to keep writing.</p>
+      </div>
+      <div className="section">
+        <h2>Who are you?</h2>
+        <p>My name is Binney (she/her). I'm not on many of these hip new social networks but I am on <a href="https://github.com/Binney/">Github</a>.</p>
+      </div>
+    </>
   );
 }
