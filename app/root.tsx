@@ -1,5 +1,7 @@
 import {
+  Link,
   Links,
+  LinksFunction,
   LiveReload,
   Meta,
   Outlet,
@@ -7,11 +9,20 @@ import {
   ScrollRestoration
 } from "remix";
 import type { MetaFunction } from "remix";
-import { Link } from "react-router-dom";
+import styles from "~/styles/global.css";
 
 export const meta: MetaFunction = () => {
   return { title: "Story-a-week" };
 };
+
+export const links: LinksFunction = () => {
+  return [
+    {
+      rel: "stylesheet",
+      href: styles
+    }
+  ]
+}
 
 export default function App() {
   return (
@@ -23,10 +34,15 @@ export default function App() {
         <Links />
       </head>
       <body>
+        <div>
+          Header goes here
+        </div>
         <Outlet />
         <ScrollRestoration />
         <Scripts />
-        <Link to="/stories">Stories</Link>
+        <div>
+          Footer goes here
+        </div>
         {process.env.NODE_ENV === "development" && <LiveReload />}
       </body>
     </html>
