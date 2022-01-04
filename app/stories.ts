@@ -1,5 +1,5 @@
 import path from "path";
-import fs from "fs/promises";
+import fs from "fs";
 import parseFrontMatter from "front-matter";
 import invariant from "tiny-invariant";
 import { marked } from "marked";
@@ -25,10 +25,10 @@ function isValidStoryAttributes(
 }
 
 export async function getStories() {
-    const dir = await fs.readdir(storiesPath);
+    const dir = await fs.promises.readdir(storiesPath);
     const stories = await Promise.all(
         dir.map(async filename => {
-            const file = await fs.readFile(
+            const file = await fs.promises.readFile(
                 path.join(storiesPath, filename)
             );
             const { attributes } = parseFrontMatter(
@@ -51,7 +51,7 @@ export async function getStories() {
 export async function getStory(slug: string) {
     const filepath = path.join(storiesPath, slug + ".md");
     try {
-        const file = await fs.readFile(filepath);
+        const file = await fs.promises.readFile(filepath);
         const { attributes, body } = parseFrontMatter(file.toString());
         invariant(
             isValidStoryAttributes(attributes),
