@@ -7,9 +7,10 @@ import {
   ScrollRestoration
 } from "remix";
 import type { MetaFunction } from "remix";
+import { Link } from "react-router-dom";
 
 export const meta: MetaFunction = () => {
-  return { title: "New Remix App" };
+  return { title: "Story-a-week" };
 };
 
 export default function App() {
@@ -25,6 +26,7 @@ export default function App() {
         <Outlet />
         <ScrollRestoration />
         <Scripts />
+        <Link to="/stories">Stories</Link>
         {process.env.NODE_ENV === "development" && <LiveReload />}
       </body>
     </html>
