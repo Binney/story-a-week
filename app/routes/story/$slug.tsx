@@ -11,12 +11,7 @@ export const loader: LoaderFunction = async ({ params }) => {
 export default function StorySlug() {
   const story = useLoaderData();
   console.log(story);
-  return (story ?
-    <div>
-      <div dangerouslySetInnerHTML={{__html: story.html}} />
-    </div>
-    : <div>
-        <h1>404 not found</h1>
-    </div>
+  return (
+      <div className="story" dangerouslySetInnerHTML={{__html: story.html}} />
   );
 }
