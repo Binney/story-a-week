@@ -1,3 +1,16 @@
 body {
-    background-color: purple;
+    background-color: #071f0a;
+    color: #dddddd;
+}
+
+.header-row, .footer-row {
+    background-color: #204b24;
+}
+
+a {
+    color: #e2c24b;
+}
+
+a:hover, a:active {
+    color: #fff0b8;
 }
