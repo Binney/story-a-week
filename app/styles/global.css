@@ -25,6 +25,14 @@ body {
     font-size: 80%;
 }
 
+ul {
+    line-height: 2;
+}
+
 p {
     line-height: 1.5;
+}
+
+.word-count {
+    text-align: right;
 }

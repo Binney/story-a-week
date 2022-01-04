@@ -4,11 +4,13 @@ import parseFrontMatter from "front-matter";
 import invariant from "tiny-invariant";
 import { marked } from "marked";
 import { compareDesc } from "date-fns";
+import { wordCount } from "./utils";
 
 export type Story = {
     slug: string;
     title: string;
     date: Date;
+    words: number;
 }
 
 export type StoryMarkdownAttributes = {
@@ -41,7 +43,7 @@ export async function getStories() {
             return {
                 slug: filename.replace(/\.md$/, ""),
                 title: attributes.title,
-                date: new Date(attributes.date),
+                date: new Date(attributes.date)
             };
         })
     );
@@ -58,7 +60,14 @@ export async function getStory(slug: string) {
             `Story ${filepath} is missing attributes`
         );
         const html = marked(body);
-        return { slug, html, title: attributes.title, date: attributes.date };
+        return {
+            slug,
+            html,
+            title: attributes.title,
+            date: attributes.date,
+            wordCount: wordCount(html)
+
+        };
     }
     catch (error) {
         throw new Response("Not Found", { status: 404 });

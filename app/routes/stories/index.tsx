@@ -2,6 +2,7 @@ import { Link, useLoaderData } from "remix";
 import { getStories } from "~/stories";
 import type { Story } from "~/stories";
 import { format } from "date-fns";
+import { formatDate } from "~/utils";
 
 export const loader = () => {
     return getStories();
@@ -15,7 +16,7 @@ export default function stories() {
             <ul>
                 {stories.map(story => (
                     <li key={story.slug}>
-                        <Link to={"/story/" + story.slug}>{story.title}</Link> | {format(new Date(story.date), "do MMM")}
+                        <Link to={"/story/" + story.slug}>{story.title}</Link> | {formatDate(story.date)}
                     </li>
                 ))}
             </ul>

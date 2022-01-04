@@ -1,5 +1,6 @@
 import { Link, useLoaderData } from "remix";
 import { getStories, Story } from "~/stories";
+import { formatDate } from "~/utils";
 
 export const loader = () => {
   return getStories();
@@ -14,8 +15,8 @@ export default function Index() {
         <h2>Latest</h2>
         <ul>
           {stories.slice(0, 3).map(story => (
-            <li>
-              <Link to={"/story/" + story.slug}>{story.title}</Link>
+            <li key={story.slug}>
+              <Link to={"/story/" + story.slug}>{story.title} ({formatDate(story.date)})</Link>
             </li>
           ))}
         </ul>
@@ -23,7 +24,7 @@ export default function Index() {
       </div>
       <div className="section">
         <h2>What is this?</h2>
-        <p>I'm taking my inspiration from <a href="https://www.reddit.com/r/songaweek/">r/songaweek</a>, except instead of songs I'm going to write stories. A story can be long or short, can be serious or weird, can planned or just a stream of consciousness. The point is consistency. You just have to keep writing.</p>
+        <p>I'm taking my inspiration from <a href="https://www.reddit.com/r/songaweek/">r/songaweek</a>, except instead of songs I'm going to write stories. A story can be long or short, can be serious or weird, can planned or just a stream of consciousness. The point is consistency. I just have to keep writing.</p>
       </div>
       <div className="section">
         <h2>Who are you?</h2>
