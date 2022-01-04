@@ -3,7 +3,7 @@ import fs from "fs/promises";
 import parseFrontMatter from "front-matter";
 import invariant from "tiny-invariant";
 import { marked } from "marked";
-import { compareAsc, compareDesc } from "date-fns";
+import { compareDesc } from "date-fns";
 
 export type Story = {
     slug: string;
