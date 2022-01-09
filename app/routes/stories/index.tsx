@@ -1,11 +1,14 @@
-import { Link, useLoaderData } from "remix";
+import { Link, MetaFunction, useLoaderData } from "remix";
 import { getStories } from "~/stories";
 import type { Story } from "~/stories";
-import { format } from "date-fns";
 import { formatDate } from "~/utils";
 
 export const loader = () => {
     return getStories();
+};
+
+export const meta: MetaFunction = () => {
+    return { title: "Stories | Binney's story-a-week" }
 };
 
 export default function stories() {

@@ -1,4 +1,4 @@
-import { useLoaderData } from "remix";
+import { MetaFunction, useLoaderData } from "remix";
 import type { LoaderFunction } from "remix";
 import invariant from "tiny-invariant";
 import { getStory } from "~/stories";
@@ -8,6 +8,11 @@ import { formatDate } from "~/utils";
 export const loader: LoaderFunction = async ({ params }) => {
     invariant(params.slug, "expected params.slug");
     return getStory(params.slug);
+};
+
+export const meta: MetaFunction = (data) => {
+    console.log(data);
+    return { title: data.data.title + " | Binney's story-a-week" }
 };
 
 export default function StorySlug() {
