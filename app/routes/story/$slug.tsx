@@ -11,7 +11,12 @@ export const loader: LoaderFunction = async ({ params }) => {
 
 export const meta: MetaFunction = (data) => {
     console.log(data);
-    return { title: data.data.title + " | Binney's story-a-week" }
+    return {
+        title: data.data.title + " | Binney's story-a-week",
+        "og:title": data.data.title + " | Binney's story-a-week",
+        "og:url": "https://story-a-week.netlify.app/story/" + data.data.slug,
+        "og:image": "https://story-a-week.netlify.app/images/" + data.data.slug
+    }
 };
 
 export default function StorySlug() {
