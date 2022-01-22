@@ -1,5 +1,4 @@
 import {
-  Link,
   Links,
   LinksFunction,
   LiveReload,
@@ -12,6 +11,7 @@ import type { MetaFunction } from "remix";
 import globalStyles from "~/styles/global.css";
 import lightStyles from "~/styles/light-theme.css";
 import darkStyles from "~/styles/dark-theme.css";
+import wordleStyles from '~/styles/wordle.css';
 import Header from "./header";
 import Footer from "./footer";
 
@@ -35,6 +35,10 @@ export const links: LinksFunction = () => {
       href: darkStyles,
       media: "(prefers-color-scheme: dark)"
     },
+    {
+      rel: "stylesheet",
+      href: wordleStyles
+    }
   ]
 }
 

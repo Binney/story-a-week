@@ -1,0 +1,42 @@
+.wordle {
+    display: grid;
+    justify-content: center;
+}
+
+.wordle .wordle-guess {
+    display: flex;
+}
+
+.wordle .letter {
+    width: 4rem;
+    height: 4rem;
+    margin: 0.2rem;
+    display: inline-flex;
+    background: #787c7e;
+    box-sizing: border-box;
+}
+
+.wordle .letter.letter-yellow {
+    background: #c9b458;
+}
+
+.wordle .letter.letter-green {
+    background: #6aaa64;
+}
+
+.wordle .letter.letter-empty {
+    background: white;
+    border: 2px solid #d3d6da;
+}
+
+.wordle .letter.letter-empty p {
+    color: black;
+}
+
+.wordle .letter p {
+    margin: auto;
+    font-size: 2rem;
+    font-family: 'Clear Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+}
