@@ -15,7 +15,7 @@ export const meta: MetaFunction = (data) => {
         title: data.data.title + " | Binney's story-a-week",
         "og:title": data.data.title + " | Binney's story-a-week",
         "og:url": "https://story-a-week.netlify.app/story/" + data.data.slug,
-        "og:image": "https://story-a-week.netlify.app/images/" + data.data.slug
+        "og:image": "https://story-a-week.netlify.app/images/" + data.data.slug + ".jpg"
     }
 };
 
