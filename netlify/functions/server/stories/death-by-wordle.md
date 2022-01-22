@@ -140,11 +140,25 @@ Someone at work started a Wordle Slack channel, where we all post our scores (in
 
 <div class="wordle">
     <div class="wordle-guess">
-        <div class="letter letter-green"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter letter-yellow"><p></p></div>
+        <div class="letter"><p>S</p></div>
+        <div class="letter"><p>L</p></div>
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter letter-green"><p>C</p></div>
+        <div class="letter letter-green"><p>K</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter"><p>A</p></div>
+        <div class="letter"><p>B</p></div>
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter letter-green"><p>C</p></div>
+        <div class="letter letter-green"><p>K</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter letter-green"><p>T</p></div>
+        <div class="letter letter-green"><p>R</p></div>
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter letter-green"><p>C</p></div>
+        <div class="letter letter-green"><p>K</p></div>
     </div>
     <div class="wordle-guess">
         <div class="letter letter-empty"><p></p></div>
@@ -154,8 +168,6 @@ Someone at work started a Wordle Slack channel, where we all post our scores (in
         <div class="letter letter-empty"><p></p></div>
     </div>
 </div>
-
-// TRACK
 
 Very strange. I posted about the Wordle themes in the Slack channel but nobody else seemed to know what I was talking about. I hypothesised they're doing them in pairs - after all we'd had TRAIN with TRACK, DEATH with OMENS - and Malik from Engineering said his answers didn't have anything to do with each other, they were just random words. I'll have to keep gathering data to show him what I mean. Maybe these Engineering types have difficulty seeing the bigger picture pattern between successive days.
 
@@ -164,11 +176,39 @@ Very strange. I posted about the Wordle themes in the Slack channel but nobody e
 
 <div class="wordle">
     <div class="wordle-guess">
-        <div class="letter letter-green"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter letter-yellow"><p></p></div>
+        <div class="letter"><p>L</p></div>
+        <div class="letter letter-yellow"><p>A</p></div>
+        <div class="letter"><p>T</p></div>
+        <div class="letter"><p>T</p></div>
+        <div class="letter letter-yellow"><p>E</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter"><p>V</p></div>
+        <div class="letter"><p>O</p></div>
+        <div class="letter"><p>W</p></div>
+        <div class="letter letter-green"><p>E</p></div>
+        <div class="letter"><p>L</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter letter-yellow"><p>W</p></div>
+        <div class="letter"><p>H</p></div>
+        <div class="letter letter-yellow"><p>E</p></div>
+        <div class="letter letter-yellow"><p>A</p></div>
+        <div class="letter"><p>T</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter letter-yellow"><p>W</p></div>
+        <div class="letter"><p>A</p></div>
+        <div class="letter"><p>R</p></div>
+        <div class="letter letter-yellow"><p>E</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter letter-green"><p>S</p></div>
+        <div class="letter letter-green"><p>K</p></div>
+        <div class="letter letter-green"><p>E</p></div>
+        <div class="letter letter-green"><p>W</p></div>
     </div>
     <div class="wordle-guess">
         <div class="letter letter-empty"><p></p></div>
@@ -178,20 +218,39 @@ Very strange. I posted about the Wordle themes in the Slack channel but nobody e
         <div class="letter letter-empty"><p></p></div>
     </div>
 </div>
-// ASKEW
 
 Took me a while, this one - nice word, that sneaky W on the end. Barry Gellmann got it in 2, which is frankly disgusting.
 
 ### Wordle 29th January: 
 
-
 <div class="wordle">
     <div class="wordle-guess">
-        <div class="letter letter-green"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter letter-yellow"><p></p></div>
+        <div class="letter letter-yellow"><p>S</p></div>
+        <div class="letter"><p>W</p></div>
+        <div class="letter"><p>E</p></div>
+        <div class="letter letter-yellow"><p>A</p></div>
+        <div class="letter"><p>T</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter"><p>B</p></div>
+        <div class="letter"><p>O</p></div>
+        <div class="letter"><p>U</p></div>
+        <div class="letter"><p>G</p></div>
+        <div class="letter letter-green"><p>H</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter letter-yellow"><p>R</p></div>
+        <div class="letter"><p>E</p></div>
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter letter-yellow"><p>C</p></div>
+        <div class="letter letter-green"><p>H</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter letter-green"><p>C</p></div>
+        <div class="letter letter-green"><p>R</p></div>
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter letter-green"><p>S</p></div>
+        <div class="letter letter-green"><p>H</p></div>
     </div>
     <div class="wordle-guess">
         <div class="letter letter-empty"><p></p></div>
@@ -201,22 +260,39 @@ Took me a while, this one - nice word, that sneaky W on the end. Barry Gellmann 
         <div class="letter letter-empty"><p></p></div>
     </div>
 </div>
-// SWEAT
-
-// CRASH
 
 Did the Parkrun in the morning and promptly fell asleep on the sofa without even showering! Alice was angry. Said I'd stink up the cushions with my sweat. Told me, "Robbo, it's gross, you treating the sofa like a dog bed". Generally being very petty and hysterical. We argued. Didn't even get to the Wordle until mid-afternoon.
 
 ### Wordle 30th January:
 
-
 <div class="wordle">
     <div class="wordle-guess">
-        <div class="letter letter-green"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter letter-yellow"><p></p></div>
+        <div class="letter"><p>B</p></div>
+        <div class="letter"><p>E</p></div>
+        <div class="letter letter-yellow"><p>A</p></div>
+        <div class="letter"><p>C</p></div>
+        <div class="letter"><p>H</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter"><p>T</p></div>
+        <div class="letter letter-yellow"><p>A</p></div>
+        <div class="letter"><p>S</p></div>
+        <div class="letter"><p>K</p></div>
+        <div class="letter"><p>S</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter"><p>P</p></div>
+        <div class="letter"><p>R</p></div>
+        <div class="letter letter-green"><p>O</p></div>
+        <div class="letter"><p>U</p></div>
+        <div class="letter letter-green"><p>D</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter letter-green"><p>V</p></div>
+        <div class="letter letter-green"><p>O</p></div>
+        <div class="letter letter-green"><p>I</p></div>
+        <div class="letter letter-green"><p>D</p></div>
     </div>
     <div class="wordle-guess">
         <div class="letter letter-empty"><p></p></div>
@@ -226,9 +302,6 @@ Did the Parkrun in the morning and promptly fell asleep on the sofa without even
         <div class="letter letter-empty"><p></p></div>
     </div>
 </div>
-// BEACH
-
-// AVOID
 
 A very strange thing happened this morning. I happened to see Malik doing the Wordle as he waited for the coffee machine. I don't know the man well, but we'd just chatted the previous week over Slack, so I greeted him warmly. I peered over his shoulder as he played - I'd done it on the train as usual - just as he typed in the final word and got all greens. And you know what his word was? JEWEL. Different to mine. Very odd. I thought they did the same one for everybody, and he said yes, that was the whole point, why, what did I get that morning? I hummed a bit and avoided answering.
 
@@ -237,11 +310,32 @@ A very strange thing happened this morning. I happened to see Malik doing the Wo
 
 <div class="wordle">
     <div class="wordle-guess">
-        <div class="letter letter-green"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter"><p></p></div>
-        <div class="letter letter-yellow"><p></p></div>
+        <div class="letter"><p>P</p></div>
+        <div class="letter letter-green"><p>E</p></div>
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter"><p>C</p></div>
+        <div class="letter letter-green"><p>H</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter"><p>L</p></div>
+        <div class="letter letter-green"><p>E</p></div>
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter"><p>S</p></div>
+        <div class="letter letter-green"><p>H</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter"><p>H</p></div>
+        <div class="letter letter-green"><p>E</p></div>
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter letter-green"><p>T</p></div>
+        <div class="letter letter-green"><p>H</p></div>
+    </div>
+    <div class="wordle-guess">
+        <div class="letter letter-green"><p>D</p></div>
+        <div class="letter letter-green"><p>E</p></div>
+        <div class="letter letter-green"><p>A</p></div>
+        <div class="letter letter-green"><p>T</p></div>
+        <div class="letter letter-green"><p>H</p></div>
     </div>
     <div class="wordle-guess">
         <div class="letter letter-empty"><p></p></div>
@@ -251,18 +345,14 @@ A very strange thing happened this morning. I happened to see Malik doing the Wo
         <div class="letter letter-empty"><p></p></div>
     </div>
 </div>
-// 
-// PEACH
-// LEASH
-// DEATH
 
-Something is wrong. I got the same word as last week. I thought it couldn't be the case, that's why I only guessed it on the final try. I tapped it in and hit "Enter" and one by one the boxes turned silently around, like a little row of faces turning to look at me. I immediately put the phone face down in my lap and made accidental eye contact with the man with the white dog, who was looking at me intently. He blinked, slowly. Then he stood and walked down the aisle into the next carriage, white dog wobbling along behind him on stubbly legs.
+Something is wrong. I got the same word as last week. I thought it couldn't be the case, which is why I spent so long trying other variants. Eventually I tapped it in and hit "Enter" and one by one the boxes turned silently around, like a little row of faces turning to look at me. I immediately put the phone face down in my lap and made accidental eye contact with the man with the white dog, who was looking at me intently from his seat. He blinked, slowly. Then he stood and walked down the aisle into the next carriage, white dog wobbling along behind him on stubbly legs.
 
 What is going on? Did he hack my Wordle? Is that something you can do?
 
-Impulsively I stood to follow him and just at that moment we started to slow down into my stop. People started getting up and pulling luggage down from the rack, standing in the aisle, facing the door. I pushed past in a panic, my own bag forgotten, clutching my phone like it was a vital piece of evidence. As I elbowed a woman in a heavy woollen coat and ornate coloured mask she burst out in a wordless, indignant sound, which I hardly heard at all. My eyes were glued to the end of the carriage, the door to the next carriage.
+Impulsively I stood to follow him and just at that moment we started to slow down into the station. People started getting up and pulling luggage down from the rack, standing in the aisle, facing the door. I pushed past in a panic, my own bag forgotten, clutching my phone like it was a vital piece of evidence. As I elbowed a woman in a heavy woollen coat and ornate coloured mask she burst out in a wordless, indignant sound, which I hardly heard at all. My eyes were glued to the end of the carriage, the door to the next carriage.
 
-Except there wasn't one. The carriage just ended. I belatedly remembered I was in the last carriage. Where had he gone? Where was the little white dog? I stood there swaying as the train pulled to a halt and everyone started to get off. It was a good thing it was the end of the line, because I stayed there for so long the cleaning staff had to ask me to leave. I couldn't focus on anything that day at work, kept losing my train of thought in the middle of conversation. Mr Rutagawa suggested I take the afternoon off but I jumped horribly and refused. I ended up staying late, sunk deep into a spreadsheet, deaf to the world, and taking a cab home.
+Except there wasn't one. The carriage just ended. I belatedly remembered I was in the last carriage. Where had he gone? Where was the little white dog? I stood there swaying as the train pulled to a halt and everyone started to get off. It was a good thing it was the end of the line, because I stayed there for so long the cleaning staff had to ask me to leave. I couldn't focus on anything that day at work, kept losing my train of thought in the middle of conversation. Mr Kanagawa suggested I take the afternoon off but I jumped horribly when he spoke and refused to contemplate it. I ended up staying late, sunk deep into a spreadsheet, deaf to the world, and taking a cab home.
 
 ### Wordle 1st February:
 
@@ -361,6 +451,6 @@ I typed slowly because I knew it would refuse my guess, knew it would register a
     </div>
 </div>
 
-### Evening Standard, 1st February (afternoon):
+### Evening Standard, 1st February:
 
-SUBURBAN COMMUTER TRAIN DERAILS; 10 dead, 53 injured. Network Rail blame vandals who stole material from the tracks, making them unstable. INSIDE: We hear from one regular commuter, Robert Walshingham, who tells us how he narrowly avoided being on the service in question because he was working from home...
+SUBURBAN COMMUTER TRAIN DERAILS: 10 dead, 53 injured. Network Rail blame vandals who stole material from the tracks, making them unstable. INSIDE: We hear from one regular commuter, Robert Walshingham, who tells us how he narrowly avoided being on the service in question because he was working from home...
