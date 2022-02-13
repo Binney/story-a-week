@@ -72,3 +72,5 @@ Sten was translating as she spoke, and at hearing this Heidir leapt forward to c
 “Heidir!” hissed Birger from the ground. “You don’t even know what she wants us to do!”
 
 But the old woman understood Heidir loud and clear. “Good, good. And I think I have just the job for ye…”
+
+<a href="./varangians-vs-goose-2">Part 2</a>
