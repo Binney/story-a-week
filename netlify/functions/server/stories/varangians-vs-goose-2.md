@@ -62,3 +62,5 @@ But at last an agreement was made, and the lady Alena poured out two little thim
 The Lady Alena, unmoved by the drink, stood. “Very well. Be back tomorrow morning with your fifteen men, or twenty, or whatever, and we shall begin.”
 
 We left in the moonlight, and from the barn door the geese watched us go.
+
+<a href="./varangians-vs-goose-3">Part 3</a>
