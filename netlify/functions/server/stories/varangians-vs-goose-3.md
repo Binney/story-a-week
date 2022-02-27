@@ -64,3 +64,5 @@ Men wearing white robes over fine chain mail rode alongside and when the carriag
 “This is Prince Artem,” whispered Daryna. “The son of Leanid’s late brother. And there his mother Oksana.”
 
 The youth looked around, rubbed his nose, and sneezed an almighty sneeze that set the war-geese in the next field cackling. Over the tips of the wheat another carriage was already on its way.
+
+<a href="./varangians-vs-goose-4">Part 4</a>
