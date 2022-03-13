@@ -4,14 +4,17 @@ date: 2022-03-13
 ---
 
 Snippet:
+
 Flailing wildly in midair, the sky blistering white with snow rotating violently into vivid blue as you tumble, until you bite the ice with a blood-bubbling crash that ricochets right into your skull so hard you see colours; and still you’re sliding downwards in a cloud of cold dust, which after a surprisingly long time gently lays you down in a snowdrift where you lie uncomprehending with both legs bent at strange, non-Euclidean angles.
 
 _Sunday_
+
 This is what plays over/over/over in my head, after the mountain rescue people showed up with a bright yellow stretcher speaking quick-fire French where I can only caught occasional words like “accident” and “hopital”, after the eye-wateringly expensive taxi ride - “the ambulance wouldn’t be any faster”, said Janine, apologetically, “and I checked, the insurance will cover it” - after the long wait in the clinic, when they’ve bandaged me up and stuck me full of delicious Continental painkillers, and after I got back to the chalet and the rest of the group burst into spontaneous applause. “On a blue run, too!” gushed Kevin. “I think that has to be some sort of record.”
 
 By that point I was too far gone to feel any pain or indeed much of anything at all, so I just smiled and nodded as the rest of my temporary housemates poked and prodded the splint and expressed admiration for my audacity for injuring myself on day one, rather than waiting until later in the week to be incapacitated. In short, it was all a bit of a whirlwind, and by the time I pleaded an early night and hauled my now deadweight leg into bed, I could breathe deeply for the first time since I’d dived off the top of the piste that morning. Maybe it was the mountain air or maybe it was the drugs, but I felt an unsettling sense of vertigo. It was like I was still sliding down that snowdrift, uncontrollably, scrabbling for purchase and unable to stop.
 
 _Monday_
+
 The view from the chalet living room window looks like this:
 
 Above, blue skies. I say this for context, because it’s the extraordinarily clear weather we’ve been having that’s compacted the snow down to ice and left the pistes hard as a Brummie mobster; and because I need to eke this description out as long as I can, in as much detail as I can, because there really isn’t much to describe and if I run out of things to look at I will slowly go mad.
@@ -23,6 +26,7 @@ Fortunately, I don’t have the trauma of looking at many skiers swarming over t
 This completes our tour for today. Please like, comment and subscribe, while your host takes a break to finish this John Grisham paperback and wait for the world to end.
 
 _Tuesday_
+
 I don’t know the others on the trip particularly well. It was Katie who persuaded me to come, and who then (in typical Katie fashion) caught COVID the week before, leaving me with a bunch of her friends and a niggling suspicion that I’d been had. After all, we were all in the same year at the same halls, and had had all the same opportunities to meet each other and socialise. Which meant that my failure to know anybody else was entirely my own fault.
 
 But I wasn’t about to cancel on such a breathtakingly large fraction of my student loan, so I forced a smile onto my face and decided I’d take the opportunity to meet new people. Well! That’s worked out nicely, hasn’t it. (Imagine me laughing to myself, in an empty apartment.)
@@ -34,6 +38,7 @@ Like a baguette, the courtroom novel I brought was crummy to start with and is g
 The hotel’s windows are measly little things compared to the floor-to-ceiling glass walls on the posh apartments, so I keep finding myself staring in and making up backstories for all the people I can see in there. On the third floor, for instance, there’s a fabulously dressed woman with this amazing grey coat which looks like something out of a Bond film, who lounges on the uncomfortable-looking designer sofa and stares at her phone for hours on end. I try to imagine what she’s seeing. Surely someone so glamorous can’t be doom-scrolling through Reddit. Maintaining a finely-tuned social presence in the salons of Moscow, or coordinating her lobbyist agents to counteract a series of anti-competition bills in the lower house of Ecuador, which I have just looked up on my phone and is called the Asamblea Nacional. I spend a malleable amount of time doing a Wikipedia deep-dive into the legislative systems of Latin America and by the time I resurface Grey Coat Lady is gone.
 
 _Wednesday_
+
 On the bottom floor of the apartments is a spa, with a jacuzzi right by the big windows looking over the valley, so you can sit there in your swimming costume and laugh at the people going by who are less extremely rich than you. It’s most busy at the end of the skiing day, when it fills right up with spoiled teenagers showing off their bruises to each other, but at lunchtime it’s deserted. Which is why the three people who show up as I’m eating my meagre bread-with-Comte-but-not-quite-a-sandwich pique my interest, the same way as an unusual bird might. Why aren’t they out skiing?
 
 There are two men and one woman, all maybe mid-late twenties. One of the men does slow laps in the pool while the others sit in the jacuzzi. They accentuate their conversation with wild hand-gestures, which are so physical-theatre-esque I feel I ought to be able to infer what they’re saying just by reading the gestures. The woman is wearing the sort of swimwear you see in designer ads that most people would look totally ridiculous wearing: asymmetrical, skimpy, probably very expensive. I realise she is Grey Coat Lady from yesterday. Come to think of it, why wasn’t she skiing yesterday either? God, imagine being so rich you just end up spending time at ski resorts without even any intention to participate. Having that much money must mess you up completely.
@@ -43,6 +48,7 @@ My leg hurts, but through the painkillers it’s just a dull ache. Probably more
 Swimming Pool Guy finishes his laps and comes over to stand by the jacuzzi with his hands on his hips. It’s an antagonistic pose, a “come on and try me” pose. Jacuzzi Guy and Grey Coat Lady gesticulate a bit more at him until he turns around and leaves. If I could see it any better I’d call it “storming off”. Their backstory is pivoting away from James Bond and more towards Made in Chelsea, albeit a more ambiguously European one. I’ve decided they’re Italian. Something about the sign language. Haven’t figured out why they’re in France though. I’ve got time.
 
 _Thursday_
+
 Forty-eight hours to go; forty-eight hours of window, before twenty-one-and-a-half hours of coach (minus a few toilet breaks in the great motorway service stations of France, which everyone else will use as an excuse to stretch their legs, though it’s not clear I’ll be afforded the same honour) before we arrive back home. I can’t say I’m looking forward to the trip, but increasingly it looks like a better deal than what I’m currently seeing. In short, I can’t wait to leave this room. Except for a limp downstairs to the bar yesterday evening, when I couldn’t even have a pint because it would interfere with the medication they’ve got me on, I haven’t been outdoors in four days. 
 
 Grey Coat Lady is back in her coat, standing against the window with her hands clasped behind her back. I’ve called her Andrea, she looks like an Andrea. She broods, like a mob boss surveying her kingdom. I haven’t seen anyone else in there all day, though the angle isn’t good - someone else could be behind her at the counter and I wouldn’t be able to see.
@@ -56,6 +62,7 @@ She literally spits in his face. What a power move. He wipes it on his hoodie an
 I want to reach out and comfort her, tell her he’s an arsehole and there are plenty more fish in the sea, but we are worlds away.
 
 _Friday_
+
 This morning I surprised myself by waking early to say goodbye to the skiers on their final day, and once they were gone I hurried (as much as I can hurry at the moment) to the window to look for Grey Coat Lady. But no dice. 10am passed without anyone setting foot in the apartment, then 11am, then 12. Maybe I was wrong when I thought they only came here to spend money and not to ski.
 
 But soft - what light at yonder window breaks! It’s Grey Coat Lady, not in the apartment but in the spa, wearing salopettes and a ski jacket. She must be roasting. Was there no “no shoes indoors” sign? She turns and who should it be but Jacuzzi Guy with her at the window. Oh! They kiss. Well then. This changes things.
