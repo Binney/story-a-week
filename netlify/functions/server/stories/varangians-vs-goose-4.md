@@ -78,3 +78,5 @@ A noise in the undergrowth. A goose! No - wind. Or was it? Too steady to be wind
 “Yes, yes, I’m fine,” said Lind. “Let’s finish another time.”
 
 But when they reached the spot where Birger had been looking there was nobody to be seen.
+
+<a href="./varangians-vs-goose-5">Part 5</a>
