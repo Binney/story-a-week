@@ -160,3 +160,5 @@ Viktar cried, “Artem!” and threw his knife - a practised, precise throw.
 Someone at the back of the barn yelled, “Motherfucker!” in Norse.
 
 And Smali thrust his torch into the shadows to reveal -
+
+<a href="./varangians-vs-goose-6">Part 6</a>
