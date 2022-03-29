@@ -1,6 +1,6 @@
 import { Link, MetaFunction, useLoaderData } from "remix";
-import { getStories } from "~/stories";
-import type { Story } from "~/stories";
+import { getStories } from "~/stories.server";
+import type { Story } from "~/stories.server";
 import { formatDate } from "~/utils";
 
 export const loader = () => {

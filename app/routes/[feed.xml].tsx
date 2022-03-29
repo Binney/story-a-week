@@ -2,7 +2,7 @@ import { Feed } from "feed";
 import fs from "fs";
 import { LoaderFunction } from "remix";
 import xml from "xml";
-import { getStories, getStory } from "~/stories";
+import { getStories, getStory } from "~/stories.server";
 
 const domain = "https://story-a-week.netlify.app";
 

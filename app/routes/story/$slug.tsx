@@ -1,7 +1,7 @@
 import { MetaFunction, useLoaderData } from "remix";
 import type { LoaderFunction } from "remix";
 import invariant from "tiny-invariant";
-import { getStory } from "~/stories";
+import { getStory } from "~/stories.server";
 import { formatDate } from "~/utils";
 
 export const loader: LoaderFunction = async ({ params }) => {

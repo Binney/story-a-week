@@ -1,5 +1,5 @@
 import { Link, useLoaderData } from "remix";
-import { getStories, Story } from "~/stories";
+import { getStories, Story } from "~/stories.server";
 import { formatDate } from "~/utils";
 
 export const loader = () => {
