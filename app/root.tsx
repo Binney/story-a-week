@@ -38,6 +38,12 @@ export const links: LinksFunction = () => {
     {
       rel: "stylesheet",
       href: wordleStyles
+    },
+    {
+      rel: "alternate",
+      type: "application/rss+xml",
+      title: "Binney's story-a-week RSS Feed",
+      href: "/feed.xml"
     }
   ]
 }
