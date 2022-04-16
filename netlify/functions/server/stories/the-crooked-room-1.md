@@ -7,10 +7,16 @@ I first found cause to visit M. Bouchard’s geometry shop in the spring of ‘6
 
 In the window, up against the glass was propped a blackboard reading:
 
+<div class="letter">
+
 M Bouchard and Sons
+
 Geometeers
+
 Purveyours of Fine Angles
+
 Spaces and Solids Custom Made
+</div>
 
 When I peered inside, all I could make out was a wall hung heavy with prints and photographs of what might have been abstract art or real depictions of geometric forms - I wasn’t sure. It was lit with an electric lamp which cast shadows on all the shop around it, hiding from view shelves heavy with some sort of neatly arranged fruits.
 
@@ -30,8 +36,15 @@ I stammered, “Monsieur, here, Monsieur.”
 
 I fumbled in the pockets of the raincoat I'd borrowed from Georg and found the slip of paper from Mme Herat. Bouchard unfolded it and read it with raised eyebrows. I already knew what it said:
 
+<div class="letter">
+
 M Bouchard -
+
 The angles of a triangle sum to 194 degrees.
+
 Rue de Lyon, 228
+</div>
 
 Bouchard picked his glasses off and sighed. “Well, let’s come take a look, then.”
+
+<a href="./the-crooked-room-2">Part 2</a>
