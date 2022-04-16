@@ -26,7 +26,7 @@ function isValidStoryAttributes(
     return attributes?.title && attributes?.date;
 }
 
-export async function getStories() {
+export async function getStories(limit?: number) {
     const dir = await fs.promises.readdir(storiesPath);
     const stories = await Promise.all(
         dir.map(async filename => {
@@ -47,7 +47,7 @@ export async function getStories() {
             };
         })
     );
-    return stories.sort((a, b) => compareDesc(a.date, b.date));
+    return stories.sort((a, b) => compareDesc(a.date, b.date)).slice(0, limit);
 }
 
 export async function getStory(slug: string) {

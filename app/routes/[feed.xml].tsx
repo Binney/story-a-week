@@ -15,7 +15,7 @@ function slugToImageUrl(slug: string): string {
 }
 
 async function createRssFeed() {
-  const stories = await getStories();
+  const stories = await getStories(10);
   const feed = new Feed({
     title: "Binney's story-a-week",
     description: "Binney writes one story every week",
