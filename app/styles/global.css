@@ -47,3 +47,8 @@ p {
 .letter p {
     margin: 0.1rem;
 }
+
+.playscript p::before {
+    content: '-';
+    padding-right: 1rem;
+}
