@@ -55,3 +55,8 @@ p {
 .lyrics p {
     margin: 0;
 }
+
+.playscript p::before {
+    content: '-';
+    padding-right: 1rem;
+}
