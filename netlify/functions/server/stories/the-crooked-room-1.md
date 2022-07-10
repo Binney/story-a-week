@@ -7,7 +7,7 @@ I first found cause to visit M. Bouchard’s geometry shop in the spring of ‘6
 
 In the window, up against the glass was propped a blackboard reading:
 
-<div class="letter">
+<div class="letter handwritten">
 
 M Bouchard and Sons
 
@@ -36,7 +36,7 @@ I stammered, “Monsieur, here, Monsieur.”
 
 I fumbled in the pockets of the raincoat I'd borrowed from Georg and found the slip of paper from Mme Herat. Bouchard unfolded it and read it with raised eyebrows. I already knew what it said:
 
-<div class="letter">
+<div class="letter handwritten">
 
 M Bouchard -
 

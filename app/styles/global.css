@@ -40,6 +40,9 @@ p {
 .letter {
     max-width: 400px;
     margin: auto;
+}
+
+.letter.handwritten {
     font-family: 'Square Peg', cursive;
     font-size: 170%;
 }
