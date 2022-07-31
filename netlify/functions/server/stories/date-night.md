@@ -47,11 +47,11 @@ Touchy, touchy. Felix is shouting too loud, the panic leeching into his voice. E
 
 Red Shirt Lady thinks so too. She doesn’t so much handle him back into his chair than raise one eyebrow in exquisite distaste until he’s so embarrassed he quietens down. I think I'm beginning to like her.
 
-“There might be other ways we can make this work,” she says. “A deposit held by a third party, for instance. One who will complete exchange once they receive proof you have arrived in Croughmoor.”
+“There might be other ways we can make this work,” she says. “A deposit held by a third party, for instance. One who will complete exchange once they receive proof you have arrived in Brimwick.”
 
 At last. He wants out! How interesting. Most people who try to defect just set off in a car, on a bicycle, or on foot. Felix is clearly doing a better job at planning than that.
 
-What’s more, he’s not trying to get to Scotland or on a boat. He’s actually making for Croughmoor. The borderland capital. The city-state of the in-between. I can’t think why he’d want to go there. It has neither England’s stability nor Scotland’s brimming wild promise. Last I heard they had famine there, after we stopped exporting to them. What’s it got that you’d want?
+What’s more, he’s not trying to get to Scotland or on a boat. He’s actually making for Brimwick. The borderland capital. The city-state of the in-between. I can’t think why he’d want to go there. It has neither England’s stability nor Scotland’s brimming wild promise. Last I heard they had famine there, after we stopped exporting to them. What’s it got that you’d want?
 
 I’m not getting anywhere. I need a better close-up photograph – one with the both of them recognisable, something which will give the analysts something to masturbate over. Leaving my coat on the chair but taking my bag, I wander over towards their table, looking lost. I call this the “sorry, where are your loos?” move.
 
