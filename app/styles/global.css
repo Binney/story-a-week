@@ -47,6 +47,10 @@ p {
     font-size: 170%;
 }
 
+.letter.printed {
+    text-align: center;
+}
+
 .letter p {
     margin: 0.1rem;
 }
