@@ -1,14 +1,11 @@
 body {
-    background-color: #071f0a;
-    color: #dddddd;
-}
-
-.header-row, .footer-row {
-    background-color: #204b24;
+    background-color: #1a181e;
+    color: #bbbbbb;
 }
 
 a {
     color: #e2c24b;
+    transition: color 0.2s ease;
 }
 
 a:hover, a:active {

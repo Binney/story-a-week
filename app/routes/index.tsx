@@ -28,7 +28,7 @@ export default function Index() {
       </div>
       <div className="section">
         <h2>Who are you?</h2>
-        <p>My name is Binney (she/her). I'm not on many of these hip new social networks but I am on <a href="https://github.com/Binney/">Github</a>.</p>
+        <p>My name is Binney (she/her). I'm pretty terrible at social media but I am on <a href="https://twitter.com/HYENA_BRAINS" rel="noopener noreferrer" target="_blank">Twitter</a> and <a href="https://github.com/Binney/" rel="noopener noreferrer" target="_blank">Github</a>.</p>
       </div>
     </>
   );

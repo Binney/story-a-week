@@ -1,16 +1,13 @@
 body {
-    background-color: #fff8e0;
-    color: #246b2c;
-}
-
-.header-row, .footer-row {
-    background-color: #e7d9a5;
+    background-color: #fafafa;
+    color: #302b42;
 }
 
 a {
-    color: #2c50a2;
+    color: #0d8535;
+    transition: color 0.2s ease;
 }
 
 a:hover, a:active {
-    color: #9db7f3;
+    color: #33de6c;
 }
