@@ -21,7 +21,10 @@ import { theme } from "./routes/theme";
 
 export const loader: LoaderFunction = async ({ request }) => {
   const cookie = await parseCookie(request, theme);
-  return cookie?.mode || 'light';
+  return {
+    mode: cookie?.mode || 'light',
+    url: request.url,
+  };
 }
 
 export const meta: MetaFunction = () => {
@@ -29,7 +32,8 @@ export const meta: MetaFunction = () => {
 };
 
 export const links: LinksFunction = () => {
-  const mode = useLoaderData();
+  // TODO React ain't happy with this one
+  const { mode } = useLoaderData();
   return [
     {
       rel: "stylesheet",
