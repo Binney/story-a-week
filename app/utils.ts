@@ -7,3 +7,7 @@ export function wordCount(story: string) {
 export function formatDate(date: Date) {
     return format(new Date(date), 'do MMM yyyy')
 }
+
+export function shuffle(things: Array<any>) {
+    return things.sort(() => Math.random() - 0.5);
+}

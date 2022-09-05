@@ -7,6 +7,7 @@ export default function Header() {
                 <div className="header-nav">
                     <Link to="/">Binney's story-a-week</Link>
                     <Link to="/stories">All stories</Link>
+                    <Link to="/random">Random story</Link>
                 </div>
             </div>
         </div>
