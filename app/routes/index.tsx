@@ -24,7 +24,7 @@ export default function Index() {
       </div>
       <div className="section">
         <h2>What is this?</h2>
-        <p>I'm taking my inspiration from <a href="https://www.reddit.com/r/songaweek/">r/songaweek</a>, except instead of songs I'm going to write stories. A story can be long or short, can be serious or weird, can planned or just a stream of consciousness. The point is consistency. I just have to keep writing.</p>
+        <p>I'm taking my inspiration from <a href="https://www.reddit.com/r/songaweek/" rel="noopener noreferrer" target="_blank">r/songaweek</a>, except instead of songs I'm going to write stories. A story can be long or short, can be serious or weird, can planned or just a stream of consciousness. The point is consistency. I just have to keep writing.</p>
       </div>
       <div className="section">
         <h2>Who are you?</h2>

@@ -2,10 +2,12 @@ import {
   Links,
   LinksFunction,
   LiveReload,
+  LoaderFunction,
   Meta,
   Outlet,
   Scripts,
-  ScrollRestoration
+  ScrollRestoration,
+  useLoaderData
 } from "remix";
 import type { MetaFunction } from "remix";
 import globalStyles from "~/styles/global.css";
@@ -14,12 +16,20 @@ import darkStyles from "~/styles/dark-theme.css";
 import wordleStyles from '~/styles/wordle.css';
 import Header from "./header";
 import Footer from "./footer";
+import { parseCookie } from "./utils";
+import { theme } from "./routes/theme";
+
+export const loader: LoaderFunction = async ({ request }) => {
+  const cookie = await parseCookie(request, theme);
+  return cookie?.mode || 'light';
+}
 
 export const meta: MetaFunction = () => {
   return { title: "Story-a-week" };
 };
 
 export const links: LinksFunction = () => {
+  const mode = useLoaderData();
   return [
     {
       rel: "stylesheet",
@@ -28,12 +38,12 @@ export const links: LinksFunction = () => {
     {
       rel: "stylesheet",
       href: lightStyles,
-      media: "(prefers-color-scheme: light)"
+      media: mode === "light" ? "all" : "(prefers-color-scheme: light)"
     },
     {
       rel: "stylesheet",
       href: darkStyles,
-      media: "(prefers-color-scheme: dark)"
+      media: mode === "dark" ? "all" : "(prefers-color-scheme: dark)"
     },
     {
       rel: "stylesheet",

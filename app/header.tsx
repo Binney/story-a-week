@@ -1,4 +1,5 @@
 import { Link } from "remix";
+import DarkModeToggle from "./darkModeToggle";
 
 export default function Header() {
     return (
@@ -9,6 +10,7 @@ export default function Header() {
                     <Link to="/stories">All stories</Link>
                     <Link to="/random">Random story</Link>
                 </div>
+                <DarkModeToggle />
             </div>
         </div>
     )
