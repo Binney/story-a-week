@@ -47,7 +47,7 @@ Vic didn’t have time to reply to this, because at that point Aston Ho burst in
 
 Gavin was in the corner drinking beer with Terrence, who pointed. “He’s over here. Why d’ye want him? You can’t have him until I’ve finished my pint.”
 
-Aston Ho waved his hand vaguely. Vic saw the thing he was holding was a writ, real bamboo-paper written in real ink. “Got a summons for them. Li Hei, anyone? And – oh, you’re Vic Hargreevs, aincha? You too. Here.” With this he shoved he writ under Vic’s nose, scattering the cribbage board and sending the pegs flying. Vic apologised and set about picking them up.
+Aston Ho waved his hand vaguely. Vic saw the thing he was holding was a writ, real bamboo-paper written in real ink. “Got a summons for them. Li Hei, anyone? And – oh, you’re Vic Hargreevs, aincha? You too. Here.” With this he shoved he writ under Vic’s nose, scattering the cribbage board and sending cards and pegs flying. Vic apologised and set about picking them up.
 
 Marat picked up the writ. “Vic, my dear dad-to-be, you’ve been called up for jury service!”
 
@@ -61,7 +61,7 @@ Vic and Jones both grabbed for it. Jones won. “What?”
 
 They all fell silent at that. Serjei had stopped off here at least once a week for poker before the whole business with John Marlowe’s wife had gone down, and not one in the pub didn’t remember him. The colony town was a small one.
 
-Vic finally got his writ off Jones. The trial was to start next week and he was to report to the town hall in the morning.
+Vic took the moment to grab his writ off Jones. The trial was to take place tomorrow and he was to report to the town hall in the morning.
 
 *
 
@@ -95,7 +95,7 @@ He stood.
 
 The crowd was quiet. Someone muttered something to Aston Ho. In the front row Old Man Krawitz snored and was elbowed awake by his neighbour.
 
-Vic started. “I’m d…” – the sound came out all phlegmy and hoarse. He cleared his throat. “I’m disgusted by what Serjei did to John Marlowe. And to John’s wife. It’s inexcusable. If someone did that to my wife Esmerelda, I’d want – to kill them.”
+Vic started. “I’m d…” – the sound came out all phlegmy and hoarse. He cleared his throat. “I’m disgusted by what Serjei did to John Marlowe. And to John’s wife. It’s inexcusable. If someone did that to my Esmerelda, I’d want – to kill them.”
 
 He paused. The last bit had come out with more vigour than he’d been expecting.
 
@@ -127,7 +127,7 @@ He’d tried to talk to Gavin on his way out – “I liked the way you spoke �
 
 Vic got the message. He ducked before they’d finished packing up, figuring they wouldn’t miss him, and set off home. He’d had enough of the company of men for one day. They talked a lot and never listened to each other. The only person he wanted to see or talk to right now was Esmerelda.
 
-Vic’s house was on Jackalope Lane, up the hill from the town hall. As he climbed the Yellow Brother started to set in the sky and bathed the town in a happy golden glow, all the way from the port to the treeline. The comms tower blinked sleepily. Vic stopped for a moment to watch the purple shadow of True Peak slant across the valley. Over in the west there was a dust storm coming, but it wouldn’t be here for a few hours at least. He reached the house and swiped the lock to open the door.
+Vic’s house was on Jackalope Lane, up the hill from the town hall. As he climbed, the Yellow Brother started to set in the sky and bathed the town in a happy golden glow, all the way from the port to the treeline. The comms tower blinked sleepily. Vic stopped for a moment to watch the purple shadow of True Peak slant across the valley. Over in the west there was a dust storm coming, but it wouldn’t be here for a few hours at least. He reached the house and swiped the lock to open the door.
 
 He ducked under the lintel and smiled to behold her. All the way up one wall she extended: her creaking gears and pneumatic tubes vanishing into the house, well, her house, she was the house. Her status indicator lights glittered green and yellow – oh, her thermal sink was on orange, he’d need to look at that. Her discretion cover was neatly arrayed over her sex vent since the last time he’d been minded to use her. In her dispensary unit was a gleaming, freshly-made meal of soya hash with yeast sprinkled on top just the way he liked it, the way he’d programmed her to make it. Vic beamed to see his son – his son! – floating in the amniotic vat at her aft wall, now almost the size of a honeydew melon, with his little face screwed up against the sight and sound of her. At the centre of it all her core user interface glittered. Her terminal flashed a prompt, ticking, waiting for his input, for her beloved husband to command her.
 
