@@ -67,3 +67,7 @@ p {
     content: '-';
     padding-right: 1rem;
 }
+
+.image-container {
+    text-align: center;
+}
