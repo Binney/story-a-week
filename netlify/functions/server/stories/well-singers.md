@@ -1,0 +1,23 @@
+---
+title: The Well-Singers
+date: 2022-10-16
+---
+
+In spring the well-singers came to Hayflower again; they wore grey, the colour of the sea on a cloudy day, and carried packs full of the gangly, unsettlingly-shaped instruments of their craft. It was three days before market day that they set up their stand on the green within sight of the inn and started to unload their things. There were two women and a man, who on closer inspection was little more than a lad, plus two youngsters who ran around whistling dewdrops off the grass and laughing and getting in the way.
+
+Once they’d set camp, they started to pitch out a welling from the ground, to demonstrate to passers-by their skill. In went the longest of the metal poles from their packs, stuck in the ground in a nice circle of five and hammered into place. Then the lad dug a hollow in the middle with a big copper spade and piled the earth into a rim. Hunterby threw up a fuss at this, shouting that they were making a nuisance, but one of the women had a quiet word with him and he subsided, walking away angrily, muttering that if the green wasn’t back to where it was after market day, there’d be hell to pay.
+
+There was quite the crowd gathered when the well-singers began their song, which was naturally just what they wanted to happen, and all the townspeople knew it. Not one person in the crowd had not said, at some point that very day, Well, it’s all one big advertisement, you know, they are just making sure they get all the attention in the hope one of us will hire them to sing a well in their garden, and I’ll not be taken in, even if everyone else is. But still, it’s a show, and I’ve never seen them before, so I’ll watch.
+
+The song began:
+
+The well-singers – family? – gathered around the poles and stood facing the centre, adults and children all, and closed their eyes. Onlookers noticed a low hum which wove around the circle and only when she stopped for breath did they realise it was being made by the dark-haired woman. Then above the low hum the blonde woman began to vocalise too, higher and sounding more like words, though still the song defied transcription, being a motley assemblage of consonants crowding the front of the mouth. (“This,” explained she when questioned later, “is a questing melody, which after we have located the water table deep beneath the ground begins to feel for cracks and fissures in the ground that we can start to exploit to create a route to the surface.”) And up and down it went, the song weaving to and fro, retreating on itself and striking out anew – the vowel shifting from a narrow “oo” to a broad “aa” sung with all one’s cheeks.
+
+As the sound broadened so did the children weigh in. Kenniston said later, and without a trace of shame or irony (typical for Kenniston), that she was surprised how much like her own children they sounded. Wavering, out of tune (or were they?), occasionally running out of breath at the wrong time and having to run to catch up with everyone else. But still it was clear they knew what they were doing. All three sung in unison, the lad included – his voice sometimes squeaky – and the song had now acquired more certainty, more order. The same melody seemed to rise and fall over and again, though when pressed none of the crowd could sing it back quite right after. And though the consonants remained incomprehensible, listeners reported they could almost begin to understand what it was saying – like learning a language by demonstration, rather than by translation.
+
+When the song reached its crescendo not one person present was surprised to see the water begin to bubble from the little well in the middle of the circle, though all cheered and applauded. The dark-haired woman didn’t break tune as she bent down and hooked the neck of a hosepipe into the nascent stream. Then youngest of the children broke off from singing to run over to fetch a basin; at first the water ran out muddy and choked with grit, but then it began to run clear. All the townspeople present, even the ones affecting disinterest, queued to sip from the basin, and all reported it was the sweetest water they had ever tasted, clear and cool, with a metal tang and a smoothness like the inside of an oyster.
+
+Someone commented, “If only we had water like this all the time.”
+
+The dark-haired woman replied, “A welling like this will survive for a few days before the water finds another route. But a full well – the kind we take a week to sing out – tastes less fresh, because the water sits in the bottom. Still, a well will keep you from thirst any time of the year, and we charge only what it is worth.”
+
