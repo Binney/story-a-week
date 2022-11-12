@@ -3,7 +3,7 @@ title: Beneath my boughs
 date: 2022-11-12
 ---
 
-## Beneath my boughs, bright with green, year of our Lord 981
+### Beneath my boughs, bright with green, year of our Lord 981
 
 Though the wood is dark, the sun shafts through the canopy to pool in islands of glorious golden sunlight. This I know, because one of them is mine. My siblings fell in the shadows and struggled to take root; one by one they died. But I fell in a clearing and when first I breached the surface of the earth I felt the light on my striving buds just as I felt the worm-rich moisture on my roots below. I thought, this land is good, and I will flourish here.
 
@@ -13,7 +13,7 @@ For the most part I have only the beasts of the wood come to pay me tribute, but
 
 One day as the child is playing with me, the cow wanders off. I am not tall enough to see where it went, and neither is the child. He panics, runs about the wood, stirring up the leaves that would have allowed him to follow its tracks. Then he runs off back to the village at Gods-home to pray help from his mother, or forgiveness. I don’t see him after that.
 
-## Beneath my boughs, a-quiver with wind, year of our Lord 1072
+### Beneath my boughs, a-quiver with wind, year of our Lord 1072
 
 The Frenchmen came, with their strangely-cut linens and their heavy swords. They slice through the land like a bolt of lightning, upturning the old order. Through the forest we whisper their coming on the falling leaves and in the blowing of a chill wind.
 
@@ -21,7 +21,7 @@ The first thing they do in their generosity is to give us a Duke. We had a thegn
 
 He makes the serfs pay a tax, not a tithe on their yield, but a charge to use the land itself; whether rain or shine, plenty or famine, they must meet the tax, or be thrown out of their holdings. We sway in concern at this news, for many of the people of Gods-home are our friends, and we fear what the winter has in store for them, and for us.
 
-## Beneath my boughs, sparkling with rain, year of our Lord 1203
+### Beneath my boughs, sparkling with rain, year of our Lord 1203
 
 From the tallest of my branches a heron might just crane its neck to see the wall. It slices a fine line about the forest, from the river all the way up to the outskirts of the village, all about the place that is now the Duke’s estate.
 
@@ -35,7 +35,7 @@ They strip away our bark, damaging the heartwood, and many a young tree I’ve s
 
 Fear not – for the wolves are here, the ones who rule the land, here comes the Duke’s hunt.
 
-## Beneath my boughs, entwined with rope, year of our Lord 1355
+### Beneath my boughs, entwined with rope, year of our Lord 1355
 
 My love is slender and my love is sweet; her needles carpet the forest floor like a lady’s laughter fills a room. The scent of her sap fills the air when it rains. From whence she came I do not know; perhaps a pine-cone fell from a peddler’s pack one summer day, as he walked the road to market; perhaps a stork or pelican flying south for the winter was carrying her in its talons and dropped her. In the winter, when I and all my neighbours have shed our leaves and our branches draw naked lines on the sky, her boughs alone are ever green.
 
@@ -59,7 +59,7 @@ They take him out of the courthouse and up the drive towards the Duke’s house.
 
 The crowd roars as they lead him up the steps to the rope. The priest says a few words. He has hardly finished when the keeper kicks away the steps.
 
-## Beneath my boughs, heavy with snow, year of our Lord 1576
+### Beneath my boughs, heavy with snow, year of our Lord 1576
 
 She comes often to sit with her back against my trunk, hands wrapped in squirrel-furs against the cold. She caresses my roots idly. I offer her peace, though she seems distracted.
 
@@ -93,7 +93,7 @@ She places her long finger, white as snow, to her lips.
 
 Then in a fluid motion she mounts her horse and rides off to rejoin the others.
 
-## Beneath my boughs, sticky with sap, year of our Lord 1610
+### Beneath my boughs, sticky with sap, year of our Lord 1610
 
 According to the people in the village, the young Duke is acquiring a reputation for hot-headedness. His late father was not loved, but he was respected; and though his son has his golden hair, he lacks his father’s ability to placate the people of the parish with a well-chosen word or a well-timed boon.
 
@@ -123,7 +123,7 @@ Take them all, she says, but not this one.
 
 And so watch the axes swing as one, through ash and elm and hawthorn, all around me; watch them cut holes through to the sky, the bodies of my friends fall to the ground one by one. Listen for the slow creak of fir as they bury their axes in the body of my love and she falls screaming to the ground.
 
-## Beneath my boughs, blackened with soot, year of our Lord 1791
+### Beneath my boughs, blackened with soot, year of our Lord 1791
 
 The light is overwhelming and comes from all sides; there is no escape from it. But the meadow has its own beauty that I knew not in the wood. A thousand different types of insect hum happily in the summer dusk, hovering over the grass, landing on my trunk, which gives my aged boughs happiness.
 
@@ -141,7 +141,7 @@ They bring in boatloads of coal and experts from Birmingham, who arrive on the c
 
 Into the air rises the coal-smoke which settles on my leaves, turning black the green.
 
-## Beneath my boughs, crown’d with sunlight, year of our Lord 1981
+### Beneath my boughs, crown’d with sunlight, year of our Lord 1981
 
 They come at dawn, climbing the wall with ease, helping each other over; men, women and children all, in plastic anoraks and carrying bags full of food and hot tea in Thermoses.  They carry signs which they have painted themselves in garages and on kitchen tables. Though they all live less than a day’s walk away (not that many measure distances so, not any more), none have set foot in my meadow in their lives. Children look around wide-eyed and gawp at the manor nestled in the hill, only just visible through the morning mist. There is a carnival atmosphere, betrayed only in passing by the heavy looks exchanged by the adults in charge.
 
