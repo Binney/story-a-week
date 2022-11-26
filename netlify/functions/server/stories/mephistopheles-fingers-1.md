@@ -27,23 +27,23 @@ He felt a knot on the middlemost thread – but it wasn’t a knot, it was perfe
 
 Then he saw/felt/heard a crotchet, and another. A, E, one octave above middle C. Clear as a crystal goblet, echoing around the space. It sounded like his name.
 
-Marlow...
+_Marlow..._
 
 His heart leapt into his mouth. He almost stopped, but continued.
 
-More notes. Semiquavers leapfrogging each other, dotted and slightly syncopated. Poor, poor Marlow, you sad little boy, in misery you think you are unique, but you are just like all the others...
+More notes. Semiquavers leapfrogging each other, dotted and slightly syncopated. _Poor, poor Marlow, you sad little boy, in misery you think you are unique, but you are just like all the others..._
 
 There was a nice little modulation into D minor. Marlow kept going.
 
-I know what you want and I can get you it, if you’re willing to pay, but let me tell you, little Marlow, the price is cheap for you right now, you’d better take advantage of the interest rate while you have the chance...
+_I know what you want and I can get you it, if you’re willing to pay, but let me tell you, little Marlow, the price is cheap for you right now, you’d better take advantage of the interest rate while you have the chance..._
 
 Who are you? cried Marlow, E-A-G sharp.
 
-You know very well, very well, who I am, my friend, the real question is: who are you? Will you fizzle out in the dark or blaze bright? Your choice, your choice...
+_You know very well, very well, who I am, my friend, the real question is: who are you? Will you fizzle out in the dark or blaze bright? Your choice, your choice..._
 
 I just want to be able to play again, said Marlow.
 
-And play you shall – let us play together, Marlow, Marlow, they’ll never have heard the like before...
+_And play you shall – let us play together, Marlow, Marlow, they’ll never have heard the like before..._
 
 And then a glissando, tumbling all the way down from the very top C, the piano now a sheer cliff, Marlow cartwheeling down octave by octave, all the notes happening at once – in all the cacophony he let go of the threads - 
 
