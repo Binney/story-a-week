@@ -41,7 +41,7 @@ He slowly pulled the gloves off and laid them on the keyboard again.
 
 His phone went off.
 
-It was Kim. Hey – ready for tonight? do you want a practice run you sounded a bit on edge yesterday. will be @ c&hp from 3
+It was Kim. _Hey – ready for tonight? do you want a practice run you sounded a bit on edge yesterday. will be @ c&hp from 3_
 
 He pushed the piano stool out and stood.
 
