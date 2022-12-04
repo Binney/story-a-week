@@ -54,3 +54,5 @@ He sat up in bed. It was 8am, or a little after. The light was pressing under th
 His fingers brushed silk and he looked to one side, astonished.
 
 On his bedside table were a pair of pristine white silken gloves.
+
+<a href="./mephistopheles-fingers-2">Part 2</a>
