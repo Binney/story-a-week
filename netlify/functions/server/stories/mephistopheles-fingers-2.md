@@ -46,3 +46,5 @@ It was Kim. _Hey – ready for tonight? do you want a practice run you sounded a
 He pushed the piano stool out and stood.
 
 Before he left he shoved the gloves in his pocket, just in case. 
+
+<a href="./mephistopheles-fingers-3">Part 3</a>
