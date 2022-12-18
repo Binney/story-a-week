@@ -4,7 +4,7 @@ export function wordCount(story: string) {
     return story.split(/\s+/).length;
 }
 
-export function formatDate(date: Date) {
+export function formatDate(date: string) {
     return format(new Date(date), 'do MMM yyyy')
 }
 

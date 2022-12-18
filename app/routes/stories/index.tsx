@@ -1,4 +1,5 @@
-import { Link, MetaFunction, useLoaderData } from "remix";
+import { Link, useLoaderData } from "@remix-run/react";
+import { MetaFunction } from "@remix-run/node";
 import { getStories } from "~/stories.server";
 import type { Story } from "~/stories.server";
 import { formatDate } from "~/utils";

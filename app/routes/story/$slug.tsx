@@ -1,5 +1,6 @@
-import { MetaFunction, useLoaderData } from "remix";
-import type { LoaderFunction } from "remix";
+import type { LoaderFunction } from "@remix-run/node";
+import { MetaFunction } from "@remix-run/node";
+import { useLoaderData } from "@remix-run/react";
 import invariant from "tiny-invariant";
 import { getStory } from "~/stories.server";
 import { formatDate } from "~/utils";

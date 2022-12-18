@@ -1,13 +1,5 @@
-import {
-  Links,
-  LinksFunction,
-  LiveReload,
-  Meta,
-  Outlet,
-  Scripts,
-  ScrollRestoration
-} from "remix";
-import type { MetaFunction } from "remix";
+import { type MetaFunction, LinksFunction } from "@remix-run/node";
+import { Links, LiveReload, Meta, Outlet, Scripts, ScrollRestoration } from "@remix-run/react";
 import globalStyles from "~/styles/global.css";
 import lightStyles from "~/styles/light-theme.css";
 import darkStyles from "~/styles/dark-theme.css";

@@ -9,7 +9,7 @@ import { wordCount } from "./utils";
 export type Story = {
     slug: string;
     title: string;
-    date: Date;
+    date: string;
     words: number;
 }
 
