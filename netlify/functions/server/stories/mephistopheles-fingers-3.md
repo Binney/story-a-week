@@ -50,3 +50,5 @@ Marlow looked at his hands. He was still wearing the gloves. Had been since he�
 “Thanks,” he said, still staring at his hands. He never let them get too long, couldn’t play with them going “clickety-clack” on the keys. Must’ve forgotten what with Paul and all. Let them get out of control.
 
 After she’d gone he took one of the gloves off and examined his nails. They were trimmed short, as usual.
+
+<a href="./mephistopheles-fingers-4">Part 4</a>
