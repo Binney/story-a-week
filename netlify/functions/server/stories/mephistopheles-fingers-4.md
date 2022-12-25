@@ -102,3 +102,5 @@ Well, with the gloves, he was the equal of any of them.
 He nodded and said, “I’ll do it.”
 
 She beamed again. “That’s fantastic, really fantastic.” She fumbled around in her handbag and pulled out a business card. “I really can’t wait to work with you, Marlow.”
+
+<a href="./mephistopheles-fingers-5">Part 5</a>
