@@ -19,7 +19,7 @@ As many of you may know, this year also marks the third anniversary of our Lunar
 
 And finally, I know many of you would not have read this far without the promise of a word or two about Ifrit!! He is doing well after the incident last year. He has learned his lesson about trying to escape from Glyphspeaker Tower and has regrown almost all of his limbs. He has taken a very much more personable attitude towards the family, helped along by a nifty charm of compliance that Solstice introduced us all to. We are so proud of his progress and hope to welcome you back to Glyphspeaker Tower next year to show you first hand how far he has come. What a rascal!! We love him so much.
 
-Wishing you all a very happy Year End and an auspicious year to come, cerddwch yn ddiogel yn eich breuddwydion.
+Wishing you all a very happy Year End and an auspicious year to come, _cerddwch yn ddiogel yn eich breuddwydion_.
 
 Best Wishes,
 
