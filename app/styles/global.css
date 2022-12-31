@@ -68,6 +68,11 @@ p {
     padding-right: 1rem;
 }
 
+.huge p {
+    font-size: 300%;
+    margin: 1rem;
+}
+
 .image-container {
     text-align: center;
 }

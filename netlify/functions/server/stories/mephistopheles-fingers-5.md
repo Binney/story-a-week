@@ -118,3 +118,5 @@ Whatever price I have to pay, I’ll pay it.
 Marlow slipped the gloves on and
 
 was back in the auditorium, and the crowd went wild.
+
+<a href="./mephistopheles-fingers-6">Part 6</a>
