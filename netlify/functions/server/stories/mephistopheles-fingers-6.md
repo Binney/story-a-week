@@ -77,13 +77,13 @@ He ran it to the kitchen sink and poured it out before it went everywhere. As he
 
 Friday came.
 
-Marlow arrived at the RachInst with his hands thrust stiffly in his coat pockets and a dull glaze in his eyes. He’d hardly slept, had lain there tossing and turning at visions of brimstone and sinew, not dreaming but picturing so vividly in his mind’s eye that it was more real than a dream.
+Marlow had hardly slept. Instead he’d lain there tossing and turning at visions of brimstone and sinew, not dreaming but picturing so vividly in his mind’s eye that it was more real than a dream.
 
 But he had done it. He’d left the gloves at home.
 
 Put them in a drawer with his winter socks, as though just to tidy up, then slipped out the door quiet as you like, before they knew what was happening, before they could do anything about it.
 
-Closed the door behind him and locked it with trembling fingers, then flat-out ran down the garden path and out onto the street, sprinted on legs that felt they were going to give out from relief and hysteria at any moment., could hardly stop himself from laughing.
+Closed the door behind him and locked it with trembling fingers, then flat-out ran down the steps and out onto the street, sprinted on legs that felt they were going to give out from relief and hysteria at any moment, could hardly stop himself from laughing.
 
 He walked all the way into town. It took more than two hours. He practically danced the whole way. He stopped off for a coffee, bought a Big Issue from the woman outside the Co-Op and leafed through it as he went. The day was clouded over but crisp, like wrapping paper.
 
