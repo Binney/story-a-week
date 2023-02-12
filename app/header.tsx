@@ -8,6 +8,7 @@ export default function Header() {
                     <Link to="/">Binney's story-a-week</Link>
                     <Link to="/stories">All stories</Link>
                     <Link to="/random">Random story</Link>
+                    <Link to="/blog">Blog</Link>
                 </div>
             </div>
         </div>
